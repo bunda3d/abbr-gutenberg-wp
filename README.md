@@ -5,7 +5,7 @@ TO INSTALL:  </br>
 1.) Download the 2 files named format-html-tag-abbr.js and format-html-tag-abbr.php </br>
 2.) Add them to a folder on your computer, name the folder whatever (try "abbr-tag-gutenberg-wp-plugin" if you want to be really descriptive). </br>
 3.) Zip the folder. </br>
-4.) Upload to your Wordpress installation, install, activate. </br>
+4.) Upload to your Wordpress installation's Plugin Page, by clicking the "Add New" button. Install, activate. </br>
 5.) You should now have a button labeled "Abbreviation" in your Gutenberg toolbar. </br>
 
 TRY IT OUT:  </br>
