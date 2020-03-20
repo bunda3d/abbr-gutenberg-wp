@@ -1,0 +1,24 @@
+{
+    "name": "bunda3d/abbr-gutenberg-wp",
+    "description": "A simple Wordpress plugin that adds ability to add HTML abbr tags to any acronym, word, or group of words you highlight, with one click from the Gutenberg toolbar.",
+    "homepage": "https://github.com/bunda3d/abbr-gutenberg-wp",
+    "keywords": [
+        "WordPress", "plugin", "gutenberg", "format", "abbreviation", "abbr", "title"
+    ],
+    "support": {
+        "issues": "https://github.com/bunda3d/abbr-gutenberg-wp/issues",
+        "source": "https://github.com/bunda3d/abbr-gutenberg-wp"
+    },
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kris Bunda",
+            "email": "kris@krisbunda.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "composer/installers": "~1.0"
+    },
+}
